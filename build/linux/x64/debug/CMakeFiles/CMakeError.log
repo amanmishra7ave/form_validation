@@ -1,0 +1,12 @@
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /snap/flutter/current/usr/bin/clang++ 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/snap/flutter/current/usr/bin/ld: cannot find crt1.o: No such file or directory
+/snap/flutter/current/usr/bin/ld: cannot find crti.o: No such file or directory
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
