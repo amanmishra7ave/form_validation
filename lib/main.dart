@@ -12,7 +12,7 @@ class _MyFormState extends State<MyForm> {
   String phone = '';
   String gender = '';
   String country = '';
-  String state = '';
+  String state = '';    
   String city = '';
 
 
